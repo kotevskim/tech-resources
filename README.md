@@ -43,6 +43,10 @@ Tech-related resources and links
 ## Flutter
 - [Simple Framework to Write Excellent Flutter Code](https://filledstacks.substack.com/p/simple-framework-to-write-excellent?r=1zlz2w&utm_campaign=post&utm_medium=web)
 
+## Articles
+- [The book that changed my development career now has a Javascript version](https://dev.to/wesen/the-book-that-changed-my-development-career-now-has-a-javascript-version-33hi) - Manuel Odendahl
+- [90% of software engineering is integrating janky APIs, and I love it](https://dev.to/wesen/90-of-software-engineering-is-integrating-janky-apis-and-i-love-it-4k41) - Manuel Odendahl
+
 ## Design Patterns
 - [Awesome design patterns repo](https://github.com/DovAmir/awesome-design-patterns?tab=readme-ov-file)
 
