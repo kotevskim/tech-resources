@@ -2,7 +2,7 @@ source: https://www.lokajittikayatray.com/post/senior-developer-must-have-skills
 # 9 Must-Have Skills to Call Yourself a Senior Developer
 
 Summary:
-1. Knows How to Write Maintainable Code
+1. [Knows How to Write Maintainable Code](https://github.com/kotevskim/tech-resources/blob/main/Career/9%20Must-Have%20Skills%20to%20Call%20Yourself%20a%20Senior%20Developer.md#1-knows-how-to-write-maintainable-code)
 2. Knows How to Anticipate Failures
 3. Knows How to Prioritize Their Work
 4. Knows How to Handle Escalations
