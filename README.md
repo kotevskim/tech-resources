@@ -1,8 +1,12 @@
 # tech-resources
 Tech-related resources and links
 
-## OWASP (Open Worldwide Application Security Project) Top 10
-https://owasp.org/Top10/
+## Stay fresh
+- [CoRecursive Podcast (The Stories Behind The Code)](https://corecursive.com/) - The stories behind JSON, SQL Lite, Vue, Unix, and more...
+
+
+## Security
+- [OWASP (Open Worldwide Application Security Project) Top 10](https://owasp.org/Top10/)
 
 ## Angular
 
@@ -14,3 +18,5 @@ https://owasp.org/Top10/
 
 ## Computer science
 [Structure and Interpretation of Computer Programs, JavaScript Edition (Short)](https://sourceacademy.org/sicpjs/index)
+
+
