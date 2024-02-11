@@ -2,6 +2,8 @@
 Tech-related resources and links
 
 ## Stay fresh
+- [DevURLs](https://devurls.com/)
+- 
 - [CoRecursive Podcast (The Stories Behind The Code)](https://corecursive.com/) - The stories behind JSON, SQL Lite, Vue, Unix, and more...
 
 ## Security
@@ -38,5 +40,9 @@ Tech-related resources and links
 
 ## Computer science
 - [Structure and Interpretation of Computer Programs, JavaScript Edition (Short)](https://sourceacademy.org/sicpjs/index)
+
+## Repositories
+- Evergreen developer skills repo: https://github.com/romenrg/evergreen-skills-developers
+- Design resources repo: https://github.com/bradtraversy/design-resources-for-developers)
 
 
