@@ -23,7 +23,6 @@ Tech-related resources and links
 
 ## React
 - [React isn’t just JSX and a few hooks](https://dev.to/prakhart111/react-isnt-just-jsx-and-a-few-hooks-l09)
-- [Master React by Building 25 Projects](https://www.freecodecamp.org/news/master-react-by-building-25-projects/)
 - 2048 Game
   - https://mateuszsokola.github.io/2048-in-react/
   - https://github.com/mateuszsokola/2048-in-react
