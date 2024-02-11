@@ -6,8 +6,16 @@ Tech-related resources and links
 - 
 - [CoRecursive Podcast (The Stories Behind The Code)](https://corecursive.com/) - The stories behind JSON, SQL Lite, Vue, Unix, and more...
 
+## Cheatsheets
+- [Flexbox](https://yoksel.github.io/flex-cheatsheet/)
+
 ## Security
 - [OWASP (Open Worldwide Application Security Project) Top 10](https://owasp.org/Top10/)
+
+## Technical writing
+- [Google's Technical Writing Courses](https://developers.google.com/tech-writing/overview)
+  - [Technical Writing One](https://developers.google.com/tech-writing/one)
+  - [Technical Writing Two](https://developers.google.com/tech-writing/two)
 
 ## Angular
 
@@ -45,4 +53,6 @@ Tech-related resources and links
 - Evergreen developer skills repo: https://github.com/romenrg/evergreen-skills-developers
 - Design resources repo: https://github.com/bradtraversy/design-resources-for-developers)
 
-
+## Books
+- [Implementing DDD](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+- [System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
