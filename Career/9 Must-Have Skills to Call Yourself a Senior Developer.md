@@ -11,7 +11,7 @@ Summary:
 7. Knows How to Empathize With the User’s Requirement
 8. Knows How to Do Accurate Estimation
 9. Knows How to Be Consistent
-
+---
 When looking for a new software job, the term 'senior developer' is thrown around often. You may feel that it's yet another word for 'experienced,' but there is more to it than that.
 
 There are specific skills and traits that define senior developers. In other words, every senior developer must have essential skills to increase the team's effectiveness.
