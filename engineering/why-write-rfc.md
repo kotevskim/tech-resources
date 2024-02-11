@@ -9,8 +9,6 @@ RFC stands for “Request for Comment”, and I think of it as a short, formal d
 
 ## [](https://dev.to/wesen/quick-tip-tuesday-writing-rfcs-for-fun-and-profit-3bo#rfcs-are-about-communication)RFCs are about communication
 
-[![Leyendecker - The Politician](https://res.cloudinary.com/practicaldev/image/fetch/s--ezodjILx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0m6d5wvsd3afnlj4nkkb.jpeg)](https://res.cloudinary.com/practicaldev/image/fetch/s--ezodjILx--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0m6d5wvsd3afnlj4nkkb.jpeg)
-
 An RFC is not just a document, it is a living organism. It is meant as a **tool of communication**.
 
 -   **for the writer themselves**: writing is the best way to clarify your own ideas. If your thinking is not crystal clear, you will have a hard time putting it to paper in an elegant and persuasive way
@@ -31,8 +29,6 @@ Think of an RFC as a little propaganda machine. They are effective persuasion to
 Because they expose the compromises that are inevitably made when doing technical work, they are also an important tool for team cohesion. If a team member disagrees with the solution chosen, they know that they have been heard and that a piece of writing that records their concerns. It allows them to point out that their point might actually have been more salient than expected when the implementation of the RFC starts to veer from the proposed steps, and corrective action can be taken without much discussion or finger pointing.
 
 ## [](https://dev.to/wesen/quick-tip-tuesday-writing-rfcs-for-fun-and-profit-3bo#keep-it-simple-and-punchy)Keep it simple and punchy
-
-[![Boxe Francaise - Wikimedia](https://res.cloudinary.com/practicaldev/image/fetch/s--P42kgGOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/edoirjiob9muyc8eku8g.jpeg)](https://res.cloudinary.com/practicaldev/image/fetch/s--P42kgGOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/edoirjiob9muyc8eku8g.jpeg)
 
 I follow a few very simple guidelines for my RFCs.
 
