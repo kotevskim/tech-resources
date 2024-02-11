@@ -3,14 +3,14 @@ source: https://www.lokajittikayatray.com/post/senior-developer-must-have-skills
 
 Summary:
 1. [Knows How to Write Maintainable Code](https://github.com/kotevskim/tech-resources/blob/main/Career/9%20Must-Have%20Skills%20to%20Call%20Yourself%20a%20Senior%20Developer.md#1-knows-how-to-write-maintainable-code)
-2. Knows How to Anticipate Failures
-3. Knows How to Prioritize Their Work
-4. Knows How to Handle Escalations
-5. Knows How to Negotiate
-6. Knows When and How to Help Others 
-7. Knows How to Empathize With the User’s Requirement
-8. Knows How to Do Accurate Estimation
-9. Knows How to Be Consistent
+2. [Knows How to Anticipate Failures](https://github.com/kotevskim/tech-resources/blob/main/Career/9%20Must-Have%20Skills%20to%20Call%20Yourself%20a%20Senior%20Developer.md#2-knows-how-to-anticipate-failures)
+3. [Knows How to Prioritize Their Work](https://github.com/kotevskim/tech-resources/blob/main/Career/9%20Must-Have%20Skills%20to%20Call%20Yourself%20a%20Senior%20Developer.md#3-knows-how-to-prioritize-their-work)
+4. [Knows How to Handle Escalations](https://github.com/kotevskim/tech-resources/blob/main/Career/9%20Must-Have%20Skills%20to%20Call%20Yourself%20a%20Senior%20Developer.md#4-knows-how-to-handle-escalations)
+5. [Knows How to Negotiate](https://github.com/kotevskim/tech-resources/blob/main/Career/9%20Must-Have%20Skills%20to%20Call%20Yourself%20a%20Senior%20Developer.md#5-knows-how-to-negotiate)
+6. [Knows When and How to Help Others](https://github.com/kotevskim/tech-resources/blob/main/Career/9%20Must-Have%20Skills%20to%20Call%20Yourself%20a%20Senior%20Developer.md#5-knows-how-to-negotiate)
+7. [Knows How to Empathize With the User’s Requirement](https://github.com/kotevskim/tech-resources/blob/main/Career/9%20Must-Have%20Skills%20to%20Call%20Yourself%20a%20Senior%20Developer.md#7-knows-how-to-empathize-with-the-users-requirement)
+8. [Knows How to Do Accurate Estimation](https://github.com/kotevskim/tech-resources/blob/main/Career/9%20Must-Have%20Skills%20to%20Call%20Yourself%20a%20Senior%20Developer.md#8-knows-how-to-do-accurate-estimation)
+9. [Knows How to Be Consistent](https://github.com/kotevskim/tech-resources/blob/main/Career/9%20Must-Have%20Skills%20to%20Call%20Yourself%20a%20Senior%20Developer.md#9-knows-how-to-be-consistent)
 ---
 When looking for a new software job, the term 'senior developer' is thrown around often. You may feel that it's yet another word for 'experienced,' but there is more to it than that.
 
