@@ -31,6 +31,7 @@ Tech-related resources and links
   - https://github.com/mateuszsokola/2048-in-react
   - https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/
   - https://www.udemy.com/course/2048-in-react-and-nextjs/
+- [Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)](https://www.youtube.com/watch?v=ADJKbuayubE&ab_channel=CodeWithAntonio)
 
 ## Kotlin
 - [Kotlin design patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
