@@ -1,10 +1,12 @@
 # tech-resources
 Tech-related resources and links
 
-## Stay fresh
+## Following
 - [DevURLs](https://devurls.com/)
-- 
+- [All Things Distributed](https://www.allthingsdistributed.com/) - Werner Vogels Blog (CTO of Amazon)
 - [CoRecursive Podcast (The Stories Behind The Code)](https://corecursive.com/) - The stories behind JSON, SQL Lite, Vue, Unix, and more...
+- [High Scalability](http://highscalability.com/)
+- [InfoQ](https://www.infoq.com/)
 
 ## Cheatsheets
 - [Flexbox](https://yoksel.github.io/flex-cheatsheet/)
@@ -39,6 +41,7 @@ Tech-related resources and links
 
 ## Database
 - [Database 101: How to Model Leaderboards for 1M Player's Game](https://dev.to/danielhe4rt/database-101-how-to-model-leaderboards-for-1m-players-game-2pfa)
+- [ModernSQL Website](https://modern-sql.com/)
 
 ## Flutter
 - [Simple Framework to Write Excellent Flutter Code](https://filledstacks.substack.com/p/simple-framework-to-write-excellent?r=1zlz2w&utm_campaign=post&utm_medium=web)
@@ -46,6 +49,12 @@ Tech-related resources and links
 ## Articles
 - [The book that changed my development career now has a Javascript version](https://dev.to/wesen/the-book-that-changed-my-development-career-now-has-a-javascript-version-33hi) - Manuel Odendahl
 - [90% of software engineering is integrating janky APIs, and I love it](https://dev.to/wesen/90-of-software-engineering-is-integrating-janky-apis-and-i-love-it-4k41) - Manuel Odendahl
+- [Writing made me a better engineer](https://dev.to/wesen/how-i-learned-strategic-thinking-as-an-engineer-14aj) - Manuel Odendahl
+
+## People
+- Manuel Odendahl: https://dev.to/wesen
+- João Esperancinha: https://medium.com/@jofisaes
+- 
 
 ## Design Patterns
 - [Awesome design patterns repo](https://github.com/DovAmir/awesome-design-patterns?tab=readme-ov-file)
@@ -60,3 +69,4 @@ Tech-related resources and links
 ## Books
 - [Implementing DDD](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 - [System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) by Alex Xu
+- [SQL Performance Explained](https://www.amazon.com/Performance-Explained-Everything-Developers-about/dp/3950307826) by Marcus Winand
