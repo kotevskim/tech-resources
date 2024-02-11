@@ -1,5 +1,5 @@
 source: https://dev.to/wesen/quick-tip-tuesday-writing-rfcs-for-fun-and-profit-3bo
-# Writing RFCs for fun and profit
+# Why write RFCs
 
 I suck at writing documentation. I suck at writing emails. I suck at writing project specifications. In fact I don’t think writing documentation or project specs in a legacy-ridden, quick-changing, of-dubious-quality codebase is all that useful.
 
