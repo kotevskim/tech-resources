@@ -1,3 +1,4 @@
+source: https://dev.to/wesen/quick-tip-tuesday-writing-rfcs-for-fun-and-profit-3bo
 # Writing RFCs for fun and profit
 
 [#programming](https://dev.to/t/programming) [#architecture](https://dev.to/t/architecture) [#agile](https://dev.to/t/agile) [#productivity](https://dev.to/t/productivity)
