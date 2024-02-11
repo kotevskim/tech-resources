@@ -19,6 +19,9 @@ Tech-related resources and links
   - [Technical Writing One](https://developers.google.com/tech-writing/one)
   - [Technical Writing Two](https://developers.google.com/tech-writing/two)
 
+## CSS
+- [Create high-performance CSS animations](https://web.dev/articles/animations-guide)
+
 ## Angular
 
 ## React
@@ -31,6 +34,7 @@ Tech-related resources and links
 
 ## Kotlin
 - [Kotlin design patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+- [Coroutines guide](https://kotlinlang.org/docs/coroutines-guide.html)
 
 ## SEO
 - [Top SEO Strategies for 2024](https://www.cmswire.com/digital-marketing/state-of-search-top-seo-strategies/)
@@ -57,6 +61,7 @@ Tech-related resources and links
 
 ## Design Patterns
 - [Awesome design patterns repo](https://github.com/DovAmir/awesome-design-patterns?tab=readme-ov-file)
+- [Outbox Pattern For Reliable Microservices Messaging](https://www.milanjovanovic.tech/blog/outbox-pattern-for-reliable-microservices-messaging)
 
 ## Computer science
 - [Structure and Interpretation of Computer Programs, JavaScript Edition (Short)](https://sourceacademy.org/sicpjs/index)
