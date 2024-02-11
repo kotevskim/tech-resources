@@ -1,4 +1,4 @@
-source: https://www.lokajittikayatray.com/post/senior-developer-must-have-skills
+Source: https://www.lokajittikayatray.com/post/senior-developer-must-have-skills
 # 9 Must-Have Skills to Call Yourself a Senior Developer
 
 Summary:
