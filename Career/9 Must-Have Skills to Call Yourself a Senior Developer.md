@@ -1,5 +1,17 @@
 source: https://www.lokajittikayatray.com/post/senior-developer-must-have-skills
 # 9 Must-Have Skills to Call Yourself a Senior Developer
+
+Summary:
+1. Knows How to Write Maintainable Code
+2. Knows How to Anticipate Failures
+3. Knows How to Prioritize Their Work
+4. Knows How to Handle Escalations
+5. Knows How to Negotiate
+6. Knows When and How to Help Others 
+7. Knows How to Empathize With the User’s Requirement
+8. Knows How to Do Accurate Estimation
+9. Knows How to Be Consistent
+
 When looking for a new software job, the term 'senior developer' is thrown around often. You may feel that it's yet another word for 'experienced,' but there is more to it than that.
 
 There are specific skills and traits that define senior developers. In other words, every senior developer must have essential skills to increase the team's effectiveness.
