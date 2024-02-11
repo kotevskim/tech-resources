@@ -16,6 +16,15 @@ Tech-related resources and links
 ## Kotlin
 - [Kotlin design patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
 
+## SEO
+- [Top SEO Strategies for 2024](https://www.cmswire.com/digital-marketing/state-of-search-top-seo-strategies/)
+
+## Marketing
+- [Stefan Gajic course](https://stefangajic.com/najjaci-marketing-kurs-ikada/): 700e (from Biznis Price)
+
+## Database
+- [Database 101: How to Model Leaderboards for 1M Player's Game](https://dev.to/danielhe4rt/database-101-how-to-model-leaderboards-for-1m-players-game-2pfa)
+
 ## Flutter
 - [Simple Framework to Write Excellent Flutter Code](https://filledstacks.substack.com/p/simple-framework-to-write-excellent?r=1zlz2w&utm_campaign=post&utm_medium=web)
 
