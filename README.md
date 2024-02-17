@@ -22,6 +22,9 @@ Tech-related resources and links
 ## CSS
 - [Create high-performance CSS animations](https://web.dev/articles/animations-guide)
 
+## UI
+-[uiverse.io](https://uiverse.io/)- open source UI elements
+
 ## Angular
 
 ## React
@@ -34,6 +37,10 @@ Tech-related resources and links
   - https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/
   - https://www.udemy.com/course/2048-in-react-and-nextjs/
 - [Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)](https://www.youtube.com/watch?v=ADJKbuayubE&ab_channel=CodeWithAntonio)
+- [Building a Snake Game in Next](https://www.youtube.com/watch?v=6cVRNXq9QTQ&ab_channel=OrcDev)
+- [React Foundations](https://nextjs.org/learn/react-foundations) - Next.js official guide
+- [Learn Next.js
+](https://nextjs.org/learn/dashboard-app) - Next.js official guide
 
 ## Kotlin
 - [Kotlin design patterns](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
@@ -41,6 +48,7 @@ Tech-related resources and links
 
 ## SEO
 - [Top SEO Strategies for 2024](https://www.cmswire.com/digital-marketing/state-of-search-top-seo-strategies/)
+- [Google SEO Docs](https://developers.google.com/search/docs)
 
 ## Marketing
 - [Stefan Gajic course](https://stefangajic.com/najjaci-marketing-kurs-ikada/): 700e (from Biznis Price)
@@ -60,7 +68,7 @@ Tech-related resources and links
 ## People
 - Manuel Odendahl: https://dev.to/wesen
 - João Esperancinha: https://medium.com/@jofisaes
-- 
+
 
 ## Design Patterns
 - [Awesome design patterns repo](https://github.com/DovAmir/awesome-design-patterns?tab=readme-ov-file)
