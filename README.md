@@ -23,7 +23,7 @@ Tech-related resources and links
 - [Create high-performance CSS animations](https://web.dev/articles/animations-guide)
 
 ## UI
--[uiverse.io](https://uiverse.io/)- open source UI elements
+-[uiverse.io](https://uiverse.io/)- openSource UI elements
 
 ## Angular
 
