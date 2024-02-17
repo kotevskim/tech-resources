@@ -1,3 +1,5 @@
+# The compounding seeds of creativity
+
 Early on in my career, I learned a very important lesson about creativity: It can’t be saved for later. Creativity is perishable, just like inspiration. It has to be discharged regularly or it will spoil. And if you let enough of it go to waste, eventually your talents will sour and shrivel with it.
 
 This was counterintuitive to me. I naively thought I could run out the clock every day on a creatively dead-end job, and then pursue my all own endeavors full of zest at night, with all the creativity I had saved. But it didn’t work like that. Spending eight hours a day spinning my intellectual wheels would get me nowhere at night when I finally tried to move.
