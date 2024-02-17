@@ -26,6 +26,8 @@ Tech-related resources and links
 
 ## React
 - [React isn’t just JSX and a few hooks](https://dev.to/prakhart111/react-isnt-just-jsx-and-a-few-hooks-l09)
+- <span style="background-color: yellow;">[React: It's Not Rocket Science](https://dev.to/prakhart111/react-its-not-rocket-science-1c5m) - useState, useEffect, useReducer hooks</span>
+
 - 2048 Game
   - https://mateuszsokola.github.io/2048-in-react/
   - https://github.com/mateuszsokola/2048-in-react
